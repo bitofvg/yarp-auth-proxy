@@ -1,0 +1,6 @@
+@ApiWebApplication1_HostAddress = https://localhost:8080
+
+GET {{ApiWebApplication1_HostAddress}}/ApiWebApplication1/Api1
+Accept: application/json
+
+###
